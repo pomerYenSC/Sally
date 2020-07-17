@@ -16,6 +16,7 @@ namespace Sally.Controllers
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+            _logger.LogInformation("测试一下，不要紧张!");
         }
 
         public IActionResult Index()

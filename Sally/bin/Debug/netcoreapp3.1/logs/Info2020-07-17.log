@@ -1,0 +1,4 @@
+2020-07-17 13:42:09.0659|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-07-17 13:42:09.1162|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-07-17 13:42:09.1162|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Repository\Sally\Sally
+2020-07-17 13:42:09.1668|INFO|Sally.Controllers.HomeController|测试一下，不要紧张!
